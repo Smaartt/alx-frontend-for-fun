@@ -1,0 +1,6 @@
+3.7.4
+0b8d1af66b793ec85afdff010909320dc2117a47
+o:Sass::Tree::RootNode:@children[o:Sass::Tree::VariableNode:
+@nameI"main-text-color:ET:
+@expro: Sass::Script::Tree::Literal	:@valueo:Sass::Script::Value::Color	;0:
+@options{
